@@ -217,7 +217,7 @@ button {
    MOBILE MENU
    ========================================================= */
 .mobile-menu{
-   z-index:1;
+   z-index:3;
 }
 .mobile-menu {
     position: fixed;
@@ -265,6 +265,7 @@ button {
 
     font-size: 0.95rem;
     font-weight: 500;
+    cursor:pointer;
 
     border-radius: 8px;
 
