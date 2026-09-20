@@ -228,7 +228,7 @@ button {
 
     padding: 1.5rem;
 
-    background: var(--cream);
+    background: rgba(255, 255, 255, 0.97);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
 
