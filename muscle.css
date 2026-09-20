@@ -216,7 +216,9 @@ button {
 /* =========================================================
    MOBILE MENU
    ========================================================= */
-
+.mobile-menu{
+   z-index:1;
+}
 .mobile-menu {
     position: fixed;
     top: 76px;
@@ -226,7 +228,7 @@ button {
 
     padding: 1.5rem;
 
-    background: rgba(255, 255, 255, 0.97);
+    background: var(--cream);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
 
